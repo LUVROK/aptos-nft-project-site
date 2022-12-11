@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/wi43no2i3n4/static/css/main.765189c3.css",
-    "main.js": "/wi43no2i3n4/static/js/main.728cac9a.js",
-    "static/js/787.219fb66f.chunk.js": "/wi43no2i3n4/static/js/787.219fb66f.chunk.js",
-    "static/media/background.png": "/wi43no2i3n4/static/media/background.ed6ac8b15cc7e1db116d.png",
-    "static/media/backgroundFooter.jpg": "/wi43no2i3n4/static/media/backgroundFooter.0ee7dd822c03c81209f5.jpg",
-    "static/media/PressStart2P-Regular.ttf": "/wi43no2i3n4/static/media/PressStart2P-Regular.4bfcf8b92a857ee248e8.ttf",
-    "static/media/witch.png": "/wi43no2i3n4/static/media/witch.1dbcf6b821b803f78d57.png",
-    "index.html": "/wi43no2i3n4/index.html",
-    "main.765189c3.css.map": "/wi43no2i3n4/static/css/main.765189c3.css.map",
-    "main.728cac9a.js.map": "/wi43no2i3n4/static/js/main.728cac9a.js.map",
-    "787.219fb66f.chunk.js.map": "/wi43no2i3n4/static/js/787.219fb66f.chunk.js.map"
+    "main.css": "/aptos-nft-project-site/static/css/main.ae766c51.css",
+    "main.js": "/aptos-nft-project-site/static/js/main.97b28db5.js",
+    "static/js/787.219fb66f.chunk.js": "/aptos-nft-project-site/static/js/787.219fb66f.chunk.js",
+    "static/media/background.png": "/aptos-nft-project-site/static/media/background.ed6ac8b15cc7e1db116d.png",
+    "static/media/backgroundFooter.jpg": "/aptos-nft-project-site/static/media/backgroundFooter.0ee7dd822c03c81209f5.jpg",
+    "static/media/PressStart2P-Regular.ttf": "/aptos-nft-project-site/static/media/PressStart2P-Regular.4bfcf8b92a857ee248e8.ttf",
+    "static/media/witch.png": "/aptos-nft-project-site/static/media/witch.1dbcf6b821b803f78d57.png",
+    "index.html": "/aptos-nft-project-site/index.html",
+    "main.ae766c51.css.map": "/aptos-nft-project-site/static/css/main.ae766c51.css.map",
+    "main.97b28db5.js.map": "/aptos-nft-project-site/static/js/main.97b28db5.js.map",
+    "787.219fb66f.chunk.js.map": "/aptos-nft-project-site/static/js/787.219fb66f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.765189c3.css",
-    "static/js/main.728cac9a.js"
+    "static/css/main.ae766c51.css",
+    "static/js/main.97b28db5.js"
   ]
 }
